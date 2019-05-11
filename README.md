@@ -5,7 +5,7 @@ pkg install curl
 
 termux-setup-storage
 
-sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"
+sh -c "$(curl -fsSL https://github.com/rzl2002/termux-ohmyzsh/raw/master/install.sh)"
 
 ~/.termux/colors.sh
 
